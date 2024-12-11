@@ -21,6 +21,7 @@ Interfaces
    pseudo-ethernet
    sstp-client
    tunnel
+   utunnel
    virtual-ethernet
    vti
    vxlan
