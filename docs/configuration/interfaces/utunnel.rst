@@ -2,8 +2,9 @@
 
 .. _custom-tunnel-interface:
 
+#############
 Custom Tunnel
-=============
+#############
 
 This article touches on custom tunnel devices.
 
